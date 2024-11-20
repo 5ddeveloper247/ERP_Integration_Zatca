@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ZatcaWithSDK": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
